@@ -1,0 +1,8 @@
+Steps\CasePageStep.class
+TestRunner\RunnerTestTest.class
+Steps\ContactPageSteps.class
+Steps\LoginPageSteps.class
+TestRunner\RunnerTest.class
+Steps\DealsPageSteps.class
+Steps\HomePageStep.class
+TestRunner\RunTest.class

@@ -1,0 +1,6 @@
+PageLayer\HomePage.class
+BaseLayer\BaseClass.class
+PageLayer\LoginPage.class
+PageLayer\CasePage.class
+PageLayer\ContactPage.class
+PageLayer\DealsPage.class
